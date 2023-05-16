@@ -1,4 +1,4 @@
-# Lexicono : note d'intention
+# Lexicon : note d'intention
 
 Ce projet est un projet annexe que j'ai développé pendant mon temps libre. Il s'agit d'un lexique itératif de vieux français, de français littéraire, voire désué. Ce lexique a pour but de souligner la beauté et la richesse lexicale de la langue française, et d'inviter ceux qui le désir à s'essayer à son maniement.
 
