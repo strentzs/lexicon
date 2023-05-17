@@ -1,0 +1,686 @@
+[
+  {
+    "word": "Afférent",
+    "genre": "masculin",
+    "func": "adjectif",
+    "definition": "qui se rapporte à, qui revient à."
+  },
+  {
+    "word": "Monolithique",
+    "genre": "masculin",
+    "func": "adjectif",
+    "definition": "homogène, en un seul bloc."
+  },
+  {
+    "word": "Pusillanimité",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un caractère craintif, peureux du risque, timide, manque de courage, d'audace, de fermeté."
+  },
+  {
+    "word": "Valétudinaire",
+    "genre": "masculin",
+    "func": "adjectif",
+    "definition": "une personne à la santé variable et fragile."
+  },
+  {
+    "word": "Vicissitudes",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "enchaînement d'aléas bons et surtout mauvais dans un ensemble d'expérience d'une vie humaine."
+  },
+  {
+    "word": "Coudoyer",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "passer près de, être en contact avec."
+  },
+  {
+    "word": "Fustiger",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "battre à coup de bâtons ou blâmer violemment."
+  },
+  {
+    "word": "Entropie",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "l'augmentation du désordre."
+  },
+  {
+    "word": "Cocardier",
+    "genre": "masculin",
+    "func": "adjectif",
+    "definition": "chauvin."
+  },
+  {
+    "word": "Jactance",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "attitude hautaine, arrogante, et d'une haute opinion de soi-même."
+  },
+  {
+    "word": "Apocryphe",
+    "genre": "masculin",
+    "func": "adjectif",
+    "definition": "dont l'authenticité est discutable."
+  },
+  {
+    "word": "Ermitage",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "lieu de vie reclus."
+  },
+  {
+    "word": "Dépenaillé",
+    "genre": "masculin",
+    "func": "adjectif",
+    "definition": "en lambeaux."
+  },
+  {
+    "word": "Vertement",
+    "genre": "/",
+    "func": "adverbe",
+    "definition": "avec vivacité et conviction."
+  },
+  {
+    "word": "Admonester",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "réprimander fortement en sommant de ne pas recommencer."
+  },
+  {
+    "word": "Gageure",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un pari."
+  },
+  {
+    "word": "Exulter",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "être transporté d'une joie extrême difficile à cacher."
+  },
+  {
+    "word": "Avilissement",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "le fait de rendre méprisable."
+  },
+  {
+    "word": "Supplique",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une demande par laquelle on sollicite une grâce, une faveur."
+  },
+  {
+    "word": "Prévôtalement",
+    "genre": "/",
+    "func": "adverbe",
+    "definition": "sans appel."
+  },
+  {
+    "word": "Discourir",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "parler longuement d'un sujet."
+  },
+  {
+    "word": "Pérorer",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "discourir de façon prétentieuse."
+  },
+  {
+    "word": "Palabre",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "congrès d'une communauté où l'on échange des informations et où l'on prend des décisions."
+  },
+  {
+    "word": "Harangue",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un discours solennel. Ou un discours trop long et ennuyeux."
+  },
+  {
+    "word": "Avilir",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "abaisser quelqu'un jusqu'à le rendre méprisable."
+  },
+  {
+    "word": "Fomenter",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "entretenir, maintenir."
+  },
+  {
+    "word": "Cohorte",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un groupe de personne."
+  },
+  {
+    "word": "Cavalcader",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "un groupe courant de manière désordonnée."
+  },
+  {
+    "word": "Caracoler",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "aller de droite à gauche avec son cheval."
+  },
+  {
+    "word": "Morigéner",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "sermonner quelqu'un, lui faire la morale."
+  },
+  {
+    "word": "Camouflet",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "une blessure d'amour propre, un affront."
+  },
+  {
+    "word": "Houspiller",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "réprimander sévèrement."
+  },
+  {
+    "word": "Sarabande",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une farandole, un rythme vif. (Une sarabande de questions)."
+  },
+  {
+    "word": "Colifichets",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "de petits objets fantaisistes sans grande valeur."
+  },
+  {
+    "word": "Frontispice",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "une gravure placée en face du titre d'un ouvrage, le titre d'un ouvrage."
+  },
+  {
+    "word": "Carapaçonner",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "revêtir, mettre un carapaçon sur son cheval."
+  },
+  {
+    "word": "Connétable",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un grand général de l'armée."
+  },
+  {
+    "word": "Sycophant",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un délateur, un espion."
+  },
+  {
+    "word": "Opprobre",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un sujet de honte, couvrir quelqu'un d'opprobre."
+  },
+  {
+    "word": "Capucinade",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un discours de morale ennuyeux."
+  },
+  {
+    "word": "Galimatias",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un discours, un écrit confus, incompréhensible."
+  },
+  {
+    "word": "Soliloque",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un monologue."
+  },
+  {
+    "word": "S'aboucher",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "se mettre en relation avec quelqu'un pour une affaire douteuse (s'accointer, s'acoquiner)."
+  },
+  {
+    "word": "Opprobre",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "une honte extrême, couvrir quelqu'un d'opprobre."
+  },
+  {
+    "word": "Gaze",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un tissu très léger de soie ou de coton."
+  },
+  {
+    "word": "Émétique",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un vomitif."
+  },
+  {
+    "word": "Déférence",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une considération très respectueuse envers quelqu'un, traiter quelqu'un avec déférence."
+  },
+  {
+    "word": "Ourdir",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "disposer les premiers éléments, synonyme de tramer."
+  },
+  {
+    "word": "Dissentiment",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un doute, un conflit, une différence dans la manière de juger, de concevoir."
+  },
+  {
+    "word": "Velléité",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une intention qui n'aboutit pas sur une décision."
+  },
+  {
+    "word": "Conter fleurette / fleureter",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "origine de flirter."
+  },
+  {
+    "word": "Parangon",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un modèle."
+  },
+  {
+    "word": "Billevesées",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "des balivernes, des sornettes."
+  },
+  {
+    "word": "Mansuétude",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une disposition à pardonner généreusement, à gracier."
+  },
+  {
+    "word": "Admonester",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "se faire sévèrement réprimander."
+  },
+  {
+    "word": "Abscons",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "obscur, peu intelligible."
+  },
+  {
+    "word": "Cacochyme",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "d'une faible santé/constitution."
+  },
+  {
+    "word": "Attrition",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "usure."
+  },
+  {
+    "word": "Neurasthénique",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "être abattu, déprimé, triste."
+  },
+  {
+    "word": "Exégèse",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "faire l'exégèse de quelque chose, c'est en donner une explication et une description détaillée."
+  },
+  {
+    "word": "Laïus",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un discours empathique, un gros blabla."
+  },
+  {
+    "word": "Conciliabule",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "une conversation où l'on chuchote comme pour se donner des secrets."
+  },
+  {
+    "word": "Atermoiement",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un délai accordé à quelqu'un pour faire quelque chose."
+  },
+  {
+    "word": "Houspiller",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "le harceler de reproches."
+  },
+  {
+    "word": "Occir",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "tuer."
+  },
+  {
+    "word": "Courir sus à",
+    "genre": "locution",
+    "func": "locution",
+    "definition": "l'attaquer."
+  },
+  {
+    "word": "Contrister",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "rendre quelqu'un triste."
+  },
+  {
+    "word": "Oraison",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une prière."
+  },
+  {
+    "word": "Oindre",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "enduire d'huile."
+  },
+  {
+    "word": "Ores",
+    "genre": "/",
+    "func": "adverbe",
+    "definition": "maintenant."
+  },
+  {
+    "word": "Oncques",
+    "genre": "/",
+    "func": "adverbe",
+    "definition": "aucun, jamais."
+  },
+  {
+    "word": "Ripaille",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un repas où l'on mange beaucoup et bien."
+  },
+  {
+    "word": "Épiscopal",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "d'un évêque."
+  },
+  {
+    "word": "Ribaude",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une personne débauchée."
+  },
+  {
+    "word": "Apostat",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "une personne qui renie sa foi."
+  },
+  {
+    "word": "Sororité",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "la solidarité entre femmes."
+  },
+  {
+    "word": "Iconoclaste",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "quelqu'un d'hostile aux traditions et qui cherche à s'en débarrasser."
+  },
+  {
+    "word": "Réifier",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "donner le caractère d'une chose à."
+  },
+  {
+    "word": "Psittacisme",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "une répétition mécanique d'une phrase de la part d'une personne qui ne la comprend pas, comme un perroquet."
+  },
+  {
+    "word": "Vaticination",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "une prédiction."
+  },
+  {
+    "word": "Histrionique",
+    "genre": "/",
+    "func": "adjectif",
+    "definition": "trouble de la personnalité d'émotivité excessive et de recherche d'être le centre de l'attention."
+  },
+  {
+    "word": "Prurit",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un désir irrépressible."
+  },
+  {
+    "word": "Acrimonie",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "mauvaise humeur qui s'exprime par des propos acerbes."
+  },
+  {
+    "word": "Avanie",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un traitement humiliant, un affront public."
+  },
+  {
+    "word": "Apostasie",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "l'abandon d'une religion."
+  },
+  {
+    "word": "Pantomime",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un spectacle de mime."
+  },
+  {
+    "word": "Prosélytisme",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "faire du zèle à des gens pour les endoctriner."
+  },
+  {
+    "word": "Axiome",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un postulat, une proposition admise sans contestation."
+  },
+  {
+    "word": "Quolibet",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un propos moqueur adressé à quelqu'un."
+  },
+  {
+    "word": "Stipendié",
+    "genre": "/",
+    "func": "adjectif",
+    "definition": "être corrompu par une basse besogne."
+  },
+  {
+    "word": "Capharnaüm",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "lieu de désordre."
+  },
+  {
+    "word": "Loquace",
+    "genre": "/",
+    "func": "adjectif",
+    "definition": "qui se plaît à parler."
+  },
+  {
+    "word": "Biau",
+    "genre": "/",
+    "func": "adjectif",
+    "definition": "synonyme ancien de 'bel'."
+  },
+  {
+    "word": "Prophylaxie",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "ensemble des mesures à prendre pour prévenir une maladie."
+  },
+  {
+    "word": "Être dans le margouillis",
+    "genre": "/",
+    "func": "expression",
+    "definition": "être dans une situation désagréable, embarrassante."
+  },
+  {
+    "word": "Jarnicoton",
+    "genre": "/",
+    "func": "expression",
+    "definition": "Par Dieu ! Seigneur !"
+  },
+  {
+    "word": "S'acagnarder",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "être paresseux, fainéant."
+  },
+  {
+    "word": "Canuler",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "importuner, ennuyer."
+  },
+  {
+    "word": "Remembrance",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un souvenir."
+  },
+  {
+    "word": "Postéromanie",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "envie forte d'avoir des enfants."
+  },
+  {
+    "word": "Éplapourdi",
+    "genre": "/",
+    "func": "adjectif",
+    "definition": "être choqué, stupéfait."
+  },
+  {
+    "word": "Emberlucoter",
+    "genre": "/",
+    "func": "verbe",
+    "definition": "embrouiller, entourlouper, avoir par la ruse."
+  },
+  {
+    "word": "Épigone",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "successeur, héritier."
+  },
+  {
+    "word": "Scansion",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "analyser les constituants métriques d'un vers en le rimant, ou le fait de prononcer un slogan fort par syllabe détachée."
+  },
+  {
+    "word": "Palimpseste",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "parchemin dont on a effacé la première écriture pour pouvoir écrire un nouveau texte."
+  },
+  {
+    "word": "Sédition",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "révolte contre l'autorité établie."
+  },
+  {
+    "word": "Flonflon",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "un air de refrain facile à chantonner."
+  },
+  {
+    "word": "Cagot",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "avoir un air ou des desseins hypocrites."
+  },
+  {
+    "word": "Aphélie",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "point de l'orbite d'une planète le plus éloigné du soleil."
+  },
+  {
+    "word": "Apoastre",
+    "genre": "masculin",
+    "func": "nom_commun",
+    "definition": "équivalent de l'apogée mais pour les autres corps célestes."
+  },
+  {
+    "word": "Aphérèse",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "suppression d'une syllabe au début ou à la fin d'un mot."
+  },
+  {
+    "word": "Inimitié",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un sentiment hostile féroce envers quelqu'un."
+  },
+  {
+    "word": "Inanité",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "caractère de ce qui est vain, inutile, sans valeur."
+  },
+  {
+    "word": "Incartade",
+    "genre": "féminin",
+    "func": "nom_commun",
+    "definition": "un propos blessant, ou une extravagance."
+  }
+]
