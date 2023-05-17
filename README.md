@@ -13,3 +13,7 @@ A l'origine, j'ai développé ce site en local, à l'aide de PHP et MySQL. Ainsi
 ### Fonctions admin
 
 Il y a également un certain nombre de fonctions que j'ai supprimées pour des raisons de sécurité. Notamment en ce qui concerne les boutons de suppression de dernière ligne du tableau, et de suppression de l'intégralité des données du tableau. Bien que je les ai gardés durant la phase de développement. 
+
+### MAJ
+
+Comme je n'ai pas manuellement rentré les données sur le site même, j'ai converti mon bloc-note de vocabulaire au format JSON, que vous pouvez retrouver dans le dossier BDD, si vous avez besoin d'une base de test.
